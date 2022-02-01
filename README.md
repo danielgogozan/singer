@@ -9,8 +9,10 @@ The app offers a comprehensible example of how to:
 - use **Operations** for network request
 - solve concurrency issues using **Async Operation**
 - **chain operations** and how to enable communication between them using adapter pattern or protocols *(see SongViewModel.swift)*
+- use **MVVM** pattern
 
 The UI was built only by code.
+
 The *SingerServer* is a server built using *Vapor* and it is used only for the "Discover" tab of the app.
 
 # explore
